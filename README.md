@@ -14,7 +14,8 @@ This experiment aims to demonstrate:
 
 
 ## ARCHITECTURE DIAGRAM :
-<img width="441" height="782" alt="image" src="https://github.com/user-attachments/assets/862d0dc1-bf1b-422d-b6f8-95ae360886ee" />
+<img width="1152" height="479" alt="image" src="https://github.com/user-attachments/assets/d70fb9da-9aa9-4f0f-9b20-a1c18e0b0d6e" />
+
 
 ## DESIGN STEPS :
 ### Step 1 :
