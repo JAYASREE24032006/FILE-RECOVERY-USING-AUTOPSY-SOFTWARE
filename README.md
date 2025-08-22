@@ -14,15 +14,8 @@ This experiment aims to demonstrate:
 
 
 ## ARCHITECTURE DIAGRAM :
-```mermaid
-flowchart TD
-    A[Disk Image / Physical Drive] --> B[Install Autopsy]
-    B --> C[Create New Case in Autopsy]
-    C --> D[Add Data Source: Disk Image]
-    D --> E["Run File System & Data Recovery Modules"]
-    E --> F[Locate Deleted Files in Results]
-    F --> G[Recover and Export Deleted Files]
-```
+<img width="441" height="782" alt="image" src="https://github.com/user-attachments/assets/862d0dc1-bf1b-422d-b6f8-95ae360886ee" />
+
 ## DESIGN STEPS :
 ### Step 1 :
 Open Autopsy and create a new case with appropriate case details.
