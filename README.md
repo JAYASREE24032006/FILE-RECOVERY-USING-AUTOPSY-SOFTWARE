@@ -58,7 +58,7 @@ Navigate to the "Deleted Files" section in Autopsy and examine or recover the de
 <img width="1720" height="1029" alt="image" src="https://github.com/user-attachments/assets/b4eb23f6-28b5-4e03-b93d-6a1a5eb18de2" />
 
 
-![Uploading image.png…]()
+<img width="1917" height="1195" alt="image" src="https://github.com/user-attachments/assets/a6e44868-8d6f-43ec-8bad-cdd727b14d73" />
 
 
 ### Add Disk Image
@@ -72,25 +72,39 @@ Navigate to the "Deleted Files" section in Autopsy and examine or recover the de
 <img width="1859" height="1066" alt="image" src="https://github.com/user-attachments/assets/6419ed72-e194-4c5a-8617-9b004da48098" />
 
 ### Run Ingest Modules
-```# Select:
-# - File System Analysis
-# - Keyword Search (optional)
-# - Data Recovery / Carving
-# Click Finish
-```
+ Select:
+ - File System Analysis
+ - Keyword Search (optional)
+ - Data Recovery / Carving
+ - Click Finish
+
 ### Locate Deleted Files
-```
-# Navigate to 'Deleted Files' section in the tree view
-# Review metadata (size, hash, timestamps)
-```
+
+ Navigate to 'Deleted Files' section in the tree view
+ Review metadata (size, hash, timestamps)
+ 
+<img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/dda4aaad-d1c7-46ae-bcc3-71edf240f2d3" />
+
+
 ### Export Deleted Files
-```
-# Right-click → Extract File(s)
-# Save to: C:\forensics\Recovered_Files\
-```
+
+ Right-click → Extract File(s)
+#Save to: C:\forensics\Recovered_Files\
+<img width="1917" height="1199" alt="image" src="https://github.com/user-attachments/assets/fffd5960-ebfa-40d9-91fe-3606661bfbe0" />
+
+
+
 
 ## OUTPUT:
 Recovered Deleted File List and Details
+<img width="1917" height="1199" alt="image" src="https://github.com/user-attachments/assets/1f128fd6-1108-41ae-be70-7c11732e654f" />
+
+## REPORT :
+file:///C:/Users/jayas/OneDrive/Desktop/Desktop/autopsy/we/Reports/we%20HTML%20Report%2008-22-2025-13-41-40/report.html
+<img width="1353" height="897" alt="image" src="https://github.com/user-attachments/assets/dceee0dc-f6f7-410f-8eeb-2768098b0ef1" />
+<img width="1295" height="792" alt="image" src="https://github.com/user-attachments/assets/62d003bb-a492-4a8f-9049-90ea6b0546d3" />
+
+
 
 ## RESULT:
 Deleted files were successfully retrieved and analyzed using Autopsy.
